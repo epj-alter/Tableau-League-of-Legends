@@ -35,6 +35,12 @@ You got two options:
 - Download the **twb** file found in this repository.
 - Visit the [Tableau public link](https://public.tableau.com/profile/edgar.pena#!/vizhome/TableauBI_15934584903420/---------).
 
+# Workflow
+
+I started by looking for the right data, breaking down which metrics are most consistent between the teams that win the most.
+
+From there I started grouping the metrics for each role, to have an idea of which of these metrics are KPIs for them. After that I was able to make a player ranking by grouping and sorting them by the KPIs found.
+
 # Resources
 
 - What is League of Legends? Told by LilyPichu
