@@ -22,7 +22,7 @@ TLDR? [Watch me!](https://www.youtube.com/watch?v=Gnsq2lseMk0)
 
 The League of Legends World Championship is the annual professional League of Legends world championship tournament hosted by Riot Games and is the culmination of each season. Teams compete for the champion title, the Summoner's Cup, and a multi-million-dollar championship prize. In 2018, the finals were watched by 99.6 million people, breaking 2017's finals' viewer record. The tournament has been praised for its ceremonial performances, while receiving attention worldwide due to its multiple dramatic and emotional series.
 
-Want to learn more? [Go hype!](https://www.youtube.com/watch?v=IogJ6q4My0A) :)
+Want to learn more? [Go hype!](https://www.youtube.com/watch?v=igpwG5gLHV8&frags=pl%2Cwn) :)
 
 ## Where did I obtained the data from?
 
@@ -45,8 +45,8 @@ Started by breaking down which metrics are most consistent between the teams tha
 
 - What is League of Legends? Told by LilyPichu
   https://www.youtube.com/watch?v=Gnsq2lseMk0
-- Worlds 2019 trailer
-  https://www.youtube.com/watch?v=IogJ6q4My0A
+- 2019 World Championship Group Stage Opening Tease
+  https://www.youtube.com/watch?v=igpwG5gLHV8&frags=pl%2Cwn
 - Oracles elixir Data download link
   https://oracleselixir.com/gamedata/2019-worlds/
 - Worlds Image
