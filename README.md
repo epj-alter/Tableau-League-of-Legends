@@ -37,9 +37,9 @@ You got two options:
 
 # Workflow
 
-I started by looking for the right data, breaking down which metrics are most consistent between the teams that win the most.
+I started by looking for the right data, cleaning it from unnecesary or empty values, or values that are duplicated or grouped by team instead of individuals, changing as well data types and formats, all of this by using python and pandas.
 
-From there I started grouping the metrics for each role, to have an idea of which of these metrics are KPIs for them. After that I was able to make a player ranking by grouping and sorting them by the KPIs found.
+Started by breaking down which metrics are most consistent between the teams that win the most, from there I grouped the metrics for each role, to have an idea of which of these metrics are KPIs for them. After that I was able to make a player ranking by grouping and sorting them by the KPIs found.
 
 # Resources
 
