@@ -41,6 +41,36 @@ I started by looking for the right data, cleaning it from unnecesary or empty va
 
 Started by breaking down which metrics are most consistent between the teams that win the most, from there I grouped the metrics for each role, to have an idea of which of these metrics are KPIs for them. After that I was able to make a player ranking by grouping and sorting them by the KPIs found.
 
+# Glossary
+
+- **Win Rate:** How many games did the team win compared to the total of games the team has played.
+
+- **Gold:** In Game currency, used to buy champions items, that normally give enhanced power or abilities. Earned in multiple ways while in game. At the start of each game players have the same amount of gold.
+
+- **Kills:** Takedowns on enemy champions. After a champion is dead he goes to a wait state until the champion is allowed to play again, the time of wait increases the longer the game goes. Securing Kills grant gold and experience.
+
+- **Assists:** Assist are awarded to the champions that helped another champion secure a kill. It grants gold and experience.
+
+- **CS:** Creep Score, each lane (TOP, MID, Bottom) has a troup of soldiers(named minions or creeps), each enemy creep killed counts towards CS, killing them grant experience and gold.
+
+- **DMG % share:** How much damage did a champion do compared to the total damage of his team.
+
+- **DPM:** Damage dealt to enemy champions per minute.
+
+- **KPM:** Kills per minute.
+
+- **First Blood:** The first kill secured by any team after the game started. it normally gives bonus gold.
+
+- **First Turret:** The first turret secured by any team after the game started. it gives bonus gold.
+
+- **First Dragon:** The first dragon secured by any team after the game started. it gives bonus power.
+
+- **Gold diff:** How much gold a champion has compared to his enemy counterpart. @ 10 means at 10 minutes which is a classic "Laning Phase Statistic" which basically means it is an individual statistic. @ 15 means at 15 minutes which is a Middle game statistic normally after 15 minutes teams have already secured an objective and made plays together, that is why gold diff @ 15 is taken usually to measure team statistics.
+
+- **CS diff:** How many Creeps does a champion has killed compared to his counterpart.
+
+- **Wards:** In league of legends there is Fog of War which means players only see what their team units see. Wards are objects that grant vision around the area they are placed, they can also be destroyed by enemy team.
+
 # Resources
 
 - What is League of Legends? Told by LilyPichu
