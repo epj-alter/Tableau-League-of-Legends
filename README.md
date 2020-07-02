@@ -1,6 +1,6 @@
 <img src="http://gamejourney.ru/wp-content/uploads/2016/11/lol-worlds-2016-stadium.jpg" alt="LoL Worlds">
 
-# Tableau Project: League of Legends 2019 Worlds Championship
+# Tableau Project: League of Legends 2019 Worlds Championship Player's Ranking by Role
 
 This analysis tries to rank players in each role, who attended the main stage from the League of Legends 2019 Worlds championship.
 
